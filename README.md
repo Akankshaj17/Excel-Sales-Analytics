@@ -1,7 +1,7 @@
-## Sales Analytics Report:-
+## Sales and Finance Analytics Report:-
 
 Project Objective:-
-The primary goal was to develop robust analytical reports that help AtliQ Hardwares optimize their sales strategies and support data-driven decision-making. This report provides an in-depth analysis of the sales performance of AtliQ Hardwares. The analysis covers key customer sales trends, market performance, product performance, and division-wise sales.
+The primary goal was to develop robust analytical reports that help AtliQ Hardwares optimize their sales strategies, financial performance and support data-driven decision-making. This report provides an in-depth analysis of the sales performance of AtliQ Hardwares. The analysis covers key customer sales trends, market performance, product performance, and division-wise sales.
 
 + Key Reports Generated:
 
