@@ -11,6 +11,10 @@ The primary goal was to develop robust analytical reports that help AtliQ Hardwa
 
 3. Market vs. Target Report: A comprehensive comparison between market performance and sales targets, highlighting areas where AtliQ exceeded or fell short of their goals.(https://github.com/Akankshaj17/Excel-Sales-Analytics/blob/main/Market%20Performance.pdf)
 
+4. Annual Profit and Loss (P&L): A year-over-year analysis of financial health and profitability.(https://github.com/Akankshaj17/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+4. Monthly P&L Breakdown: A granular view of monthly financial fluctuations and trends.(https://github.com/Akankshaj17/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
+5. Market-Based P&L Analysis: An evaluation of financial performance across different markets, identifying opportunities for growth and optimization.(https://github.com/Akankshaj17/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+
 ## Key Learnings: 
 
 * Advanced Data Analysis: Developed expertise in DAX, Power Pivot, and 
