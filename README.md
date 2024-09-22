@@ -25,5 +25,5 @@ The primary goal was to develop robust analytical reports that help AtliQ Hardwa
 
 * ETL Process-Extract, transform and load: Ensured data accuracy through Power Query and Power Pivot.
 * Data Modeling: Implemented a star schema and dimension tables for comprehensive analysis. 
-• DAX & Power Pivot: Created custom measures and dynamic reports for actionable insights. 
+• DAX & Power Pivot: Created custom measures and dynamic reports for actionable insights.
 • Conditional Formatting: Enhanced data visualization to clearly highlight key trends. 
